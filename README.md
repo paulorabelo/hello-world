@@ -2,3 +2,6 @@
 Hello word! (Olá Mundo!)
 
 Iniciando de maneira correta e evitar a maldição.
+
+Sou Paulo Rabelo estudante de engenharia de software e análise e desenvolvimento de sistemas.
+Tenho experiência anterior em diversos setores do mercado como industria, comércio e serviços e sempre fui um entusiasta da tecnologia, mesmo sem formação tecnológica fiz implementação tecnológica em todas as empresas e setores nas quais atuei e foi assim que decidi me aprofundar e aperfeiçoar na área de tecnologia.
